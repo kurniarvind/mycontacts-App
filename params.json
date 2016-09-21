@@ -1,0 +1,6 @@
+{
+  "name": "Mycontacts-app",
+  "tagline": "A Contact managing app from cloud",
+  "body": "# myContact-App\r\n\r\nAn AngularJS application which built with an idea of having an contactlist for a user, data stored in cloud and getting data directly from the cloud database.\r\n\r\nFollow the site URL to add your contact and share this https://mycontacts-990e5.firebaseapp.com to add more contacts to support.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
