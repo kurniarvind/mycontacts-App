@@ -221,6 +221,18 @@ table {
   border: 1px solid #ebebeb;
 }
 
+.carousel-caption h3 {
+font-family:serif;
+font-size: 1.8em;
+color:cyan;
+}
+
+.carousel-caption p {
+font-family:serif;
+font-size: 1em;
+color:cyan;
+}
+
 th {
   font-weight: 500;
 }
